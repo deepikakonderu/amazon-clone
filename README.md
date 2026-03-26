@@ -1,7 +1,8 @@
-
 # Amazon Clone
 
 This is my first beginner-level project where I recreated the Amazon homepage using **HTML and CSS**.
+
+🔗 **Live Demo:** https://deepikakonderu.github.io/amazon-clone/
 
 ## 🚀 Features
 
@@ -29,4 +30,3 @@ The goal of this project was to practice **frontend development basics** by recr
 ---
 
 ⭐ This is part of my learning journey in web development.
-
