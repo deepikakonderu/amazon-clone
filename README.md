@@ -1,32 +1,35 @@
-# Amazon Clone
+# E-Commerce Homepage UI
 
-This is my first beginner-level project where I recreated the Amazon homepage using **HTML and CSS**.
+This is my first beginner-level frontend project where I designed and developed an e-commerce homepage using **HTML and CSS**.
 
-🔗 **Live Demo:** https://deepikakonderu.github.io/amazon-clone/
+🔗 **Live Demo:** https://deepikakonderu.github.io/frontend-project/
 
 ## 🚀 Features
 
-* Amazon-style navigation bar
-* Search bar layout
-* Product sections
-* Footer design
+- Responsive navigation bar
+- Search bar section
+- Product showcase cards
+- Hero banner section
+- Footer layout
+- Flexbox-based alignment and structure
 
 ## 🛠️ Technologies Used
 
-* HTML5
-* CSS3
+- HTML5
+- CSS3
 
 ## 📚 What I Learned
 
-* Structuring webpages with HTML
-* Styling layouts using CSS
-* Using Flexbox for alignment
-* Building a basic responsive layout
+- Structuring webpages with semantic HTML
+- Styling modern layouts using CSS
+- Using Flexbox for alignment and spacing
+- Creating reusable UI sections
+- Building a responsive frontend layout
 
 ## 🎯 Project Goal
 
-The goal of this project was to practice **frontend development basics** by recreating a popular e-commerce website layout.
+The goal of this project was to practice frontend web development fundamentals by recreating a modern e-commerce homepage design.
 
 ---
 
-⭐ This is part of my learning journey in web development.
+⭐ This project is part of my web development learning journey.
