@@ -2,8 +2,7 @@
 
 This is my first beginner-level frontend project where I designed and developed an e-commerce homepage using **HTML and CSS**.
 
-🔗 **Live Demo:** https://deepikakonderu.github.io/frontend-project/
-
+🔗 **Live Demo:** https://frontend-project-three-beta.vercel.app/
 ## 🚀 Features
 
 - Responsive navigation bar
